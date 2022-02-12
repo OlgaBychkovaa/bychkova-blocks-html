@@ -1,0 +1,15 @@
+.Red {
+    background-color: rgb(223, 15, 15);
+    height:250px;
+    width:1600px;
+}
+.White {
+    background-color: white;
+    height:250px;
+    width:1600px;
+}
+.Green {
+    background-color: green;
+    height:250px;
+    width:1600px;
+}
